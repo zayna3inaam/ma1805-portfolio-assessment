@@ -49,10 +49,6 @@ arc(200, 250, 100, 50, PI, 0);// frown
 
 function mousePressed() {
   happy= !happy; // toggle between smile and frown on click
-
- 
-  
-  
 }
-
+// learnt this from coding train
 // emoji of "self reflcetion",users can choose whether to have the emoji smile or frown depending on the context.
