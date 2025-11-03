@@ -1,9 +1,11 @@
 # ma1805-portfolio-assessment
 
+Zayna Ahmed
+
 https://zayna3inaam.github.io/ma1805-portfolio-assessment/
 
 ## [01. drawing](01.drawing/index.html) 
--for this prompt i created an emoji of "self reflection" hence the half face half mirror, I used this coding train tutorial (https://youtu.be/c3TeLi6Ns1E?si=saEJwaGffL3Afe64) as the emoji is just a few simple shapes, which honestly, was quite challenging for me to do at first. But!!! after I managed to code the emoji, I wanted to push myself and add an animation. Which i think added depth to the idea of "self reflection" making it more alive and meaningful.
+-for this prompt I created an emoji of "self reflection" hence the half face half mirror, I used this coding train tutorial (https://youtu.be/c3TeLi6Ns1E?si=saEJwaGffL3Afe64) as the emoji is just a few simple shapes, which honestly, was quite challenging for me to do at first. But!!! after I managed to code the emoji, I wanted to push myself and add an animation. Which i think added depth to the idea of "self reflection" making it more alive and meaningful.
 
 ## [02.movement](02.movement/index.html)
 - For this prompt I created an interactive piece where lines move and change color based on the mouses position. I found learning about the mouseX and mouseY function really facinating to experiment with as it allowed me to make the artwork respond to user interaction. The end product being a lively and dynamic artpiece, that users can create ever-changing unique patterns with. I especially enjoyed exploring how small changes in code can dramatically change its visual outcome.
