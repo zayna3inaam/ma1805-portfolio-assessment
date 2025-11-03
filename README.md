@@ -13,6 +13,6 @@ https://zayna3inaam.github.io/ma1805-portfolio-assessment/
 
 ## [04.media](04.media/index.html)
 - For this prompt i used these 2 tutorials (https://youtu.be/i2C1hrJMwz0?si=cMz1En6Ipr8U1zv1) (https://youtu.be/Pn1g1wjxl_0?si=Vi4z0JijN1PPGpwy), to add a picture of a kitten that plays jazz once clicked on, whilst also capturing the reaction of the user.
-- I found this prompt the hardest, and at first couldnt get my code to run at all, my issue was my image and audio had been saved in the complete wrong directory so the code couldnt run because neither files could be found. I also found obtaining the audio challenging because at first i tried to turn a youtube video into a mp3 file but ran into too many issues- so i ended up downloading from a free website online- before this exercise I didnt even know what mp3 was! 
+- I found this prompt the hardest and at first couldnt get my code to run at all, my issue was my image and audio had been saved in the complete wrong directory so the code couldnt run because neither files could be found. I also found obtaining the audio challenging because at first i tried to turn a youtube video into a mp3 file but ran into too many issues- so i ended up downloading from a free website online- before this exercise I didnt even know what mp3 was! 
 So although this project took longer than expected and seems quite simple, I'm proud of the outcome as it taught me how to add external media to code.
 
