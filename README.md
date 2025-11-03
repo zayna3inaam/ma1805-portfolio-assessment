@@ -1,6 +1,6 @@
 # ma1805-portfolio-assessment
 
-## 01. Drawing-
+## [01. Drawing](01.drawing/index.html) 
 -for this prompt i created an emoji of "self reflection" hence the half face half mirror, I used this coding train tutorial (https://youtu.be/c3TeLi6Ns1E?si=saEJwaGffL3Afe64) as the emoji is just a few simple shapes, which honestly, was quite challenging for me to do at first. But!!! after I managed to code the emoji, i wanted to push myself and add an animation. Which i think added depth to the idea of "self reflection" making it more alive and meaningful.
 
 ## 02. Movement- 
